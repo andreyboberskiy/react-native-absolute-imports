@@ -1,8 +1,13 @@
 {
   "name": "react-native-absolute-imports",
-  "version": "1.0.2",
-  "description": "",
+  "version": "1.0.4",
+  "description": "Configures your react-native project to support absolute imports like in web react project",
   "main": "index.js",
+  "homepage": "https://github.com/andreyboberskiy/react-native-absolute-imports",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreyboberskiy/react-native-absolute-imports"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
