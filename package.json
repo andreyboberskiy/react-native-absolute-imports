@@ -1,6 +1,6 @@
 {
   "name": "react-native-absolute-imports",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Configures your react-native project to support absolute imports like in web react project",
   "main": "index.js",
   "homepage": "https://github.com/andreyboberskiy/react-native-absolute-imports",

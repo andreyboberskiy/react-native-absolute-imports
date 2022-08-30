@@ -28,6 +28,7 @@ const setup = ({ tsEnabled, srcDirName } = {}) => {
 
     const newPaths = Object.keys(alias).reduce((acc, key) => {
       acc[key + "/*"] = [`${srcDirName}/${key}/*`];
+      acc[key] = [`${srcDirName}/${key}`];
       return acc;
     }, {});
 
